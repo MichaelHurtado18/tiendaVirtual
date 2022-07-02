@@ -7,6 +7,10 @@ body {
     margin: 0;
 }
 
+.contenedor{
+    margin: 0 auto;
+    max-width: 120rem;
+}
 
 .header {
     background-color: #F4E901;
