@@ -1,0 +1,29 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    margin: 0;
+}
+
+
+.header {
+    background-color: #F4E901;
+}
+
+.barra {
+    display: flex;
+    justify-content: space-around;
+}
+
+.barra  ul {
+    list-style: none;
+    
+}
+.barra  ul a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fff;
+    
+}
